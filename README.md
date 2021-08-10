@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcelBrainly
+- 👋 Hi, I’m @Arcel
 - 👀 I’m interested in ...
 Python
 Javascript
@@ -8,6 +8,6 @@ Machine learning
 - 📫 How to reach me ...
 
 <!---
-ArcelBrainly/ArcelBrainly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arcel/Arcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
