@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arcel
+- 👋 Hi, I’m Amal
 - 👀 I’m interested in ...
 Python
 Javascript
